@@ -110,3 +110,7 @@ and a loose tolerance so they are stable across runs.
 - 2D Schrödinger solver (extend the finite-difference Hamiltonian to 2D).
 - Time-dependent Schrödinger propagation (Crank-Nicolson or split-operator).
 - Qubit: controlled-Z (CZ) and controlled-phase gates.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
