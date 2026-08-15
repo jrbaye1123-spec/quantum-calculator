@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Generated plots
+*.png
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Jupyter / misc
+.ipynb_checkpoints/
